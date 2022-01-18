@@ -1,5 +1,5 @@
 # Login API using TDD
-### Login API with automated tests using the following technologies:
+### Login API with automated tests using the following technologies: js, NodeJS, Jest and Postgresql
 
 <div style="display: inline_block"><br>
   <img align="center" alt="josecarlos19-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
